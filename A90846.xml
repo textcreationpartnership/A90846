@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Papers from Ireland, of the Marquesse of Ormonds coming in to the Parliament: Major Generall Willoughby, and two knights come over to us, and 56 barrels of gunpowder sent to secure Dublin. And the manner of taking of Mariborough Fort, and the Castle of Athlone. Where a thousand Protestants, men women and children, wer at the mercy of the bloody rebels. Besides the losse of the Lord Dillon, Viscount Castleton, Sir William Gilburt and his son, 4. ministers, and divers officers. And a list of their names. October 6. 1646. These papers concerning Ireland are printed and published according to order.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90846</idno><idno type="EEBO-CITATION">99861684</idno>
+  <idno type="VID">159910</idno>
+  <idno type="EEBO-PROQUEST">2240938920</idno>
+  
+            <idno type="STC">Wing P291</idno>
+            <idno type="STC">Thomason E356_2</idno>
+            <idno type="STC">ESTC R201133</idno>
+            <idno type="PROQUEST">99861684</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861684e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90846)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159910)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 57:E356[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Papers from Ireland, of the Marquesse of Ormonds coming in to the Parliament: Major Generall Willoughby, and two knights come over to us, and 56 barrels of gunpowder sent to secure Dublin. And the manner of taking of Mariborough Fort, and the Castle of Athlone. Where a thousand Protestants, men women and children, wer at the mercy of the bloody rebels. Besides the losse of the Lord Dillon, Viscount Castleton, Sir William Gilburt and his son, 4. ministers, and divers officers. And a list of their names. October 6. 1646. These papers concerning Ireland are printed and published according to order.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.4#20.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E.E.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>anno Domini 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Octob: 6th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Ormonde, James Butler, --  Duke of, 1610-1688.</term>
+               <term type="geographic_name">Ireland --  History --  1625-1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Campaigns.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159910:1"/>
+            <p>PAPERS FROM IRELAND, OF The Marquesse of <hi>Ormonds</hi> coming in to the Parliament: Major Generall <hi>Willoughby,</hi> and two Knights come over to us, and 56 Barrels of Gunpowder sent to secure <hi>Dublin.</hi>
+            </p>
+            <p>
+               <hi>AND</hi> The manner of taking of <hi>Mariborough</hi> Fort, and the Castle of <hi>Athlone.</hi>
+            </p>
+            <p>Where a thousand Protestants, Men Women and Chil<g ref="char:EOLhyphen"/>dren, were at the mercy of the bloody Rebels.</p>
+            <p>Besides the losse of the Lord <hi>Dillon,</hi> Viscount <hi>Castaelon,</hi> Sir <hi>William Gilburt</hi> and his Son, 4. Ministers, and divers Officers.</p>
+            <p>
+               <hi>And a List of their Names.</hi>
+            </p>
+            <p>October 6. 1646.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>
+                           <hi>These Papers concerning</hi> Ireland <hi>are printed and published according to ORDER.</hi>
+                        </p>
+                        <p>
+                           <hi>LONDON,</hi> Printed for <hi>E. E. Anno Domini</hi> 1646,</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159910:2"/>
+            <pb n="1" facs="tcp:159910:2"/>
+            <head>PAPERS FROM <hi>IRELAND:</hi> Concerning the Marquesse of <hi>Ormonds</hi> coming in to the <hi>Parliament.</hi>
+            </head>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>VVEE understand here from Dublin, that the Marquesse of Ormond is incensed against the Rebels (as he hath just cause) that he offered to capitulate with us, and hath given so good satisfaction of his resolution to prosecute the wars against the Irish Rebels, who have broke the Articles of Peace, and seek his life, that he is now sensible of it, and offers so much to us, that Captain Willoughby, and
+<pb facs="tcp:159910:3"/> Captain Wood 2. Sea Captains with whom he hath had some overtures, have very good satisfaction, that he will deliver with both Dublin, and cause to be delivered up the rest of the Garisons in Ireland in his power, to the Parliaments use, only trate with the Parliament for a be<g ref="char:EOLhyphen"/>ing for himselfe.</p>
+               <p>There are already come from Dublin, and are with us. Quartermaster Generall Willoughby, Sir Gerhard Lou<g ref="char:EOLhyphen"/>ther, and Sir Ioab David, 3 sufficient Pleadges of the Realty of this truth, that the Marquesse of Ormond doth really intend to comply with the Parliament against the Rebels.</p>
+               <p>The Marquesse of Ormond desired 50. Barrels of Gun<g ref="char:EOLhyphen"/>powder to be sent in to Dublin, to secure it against the Rebels, and satisfaction being given by the said Gentle<g ref="char:EOLhyphen"/>mens coming to us, and remaining with us (I meane those of the Fleete that tracted with them, since which they are come over, and will shortly be at London) there are 20. Barrels of Powder sent into Dublin, and 30. Bar<g ref="char:EOLhyphen"/>rels more are to be sent in afterwards, which I doubt not but they will be there in convenient time.</p>
+               <p>It is desired that the Supplies of the Regiments, and o<g ref="char:EOLhyphen"/>thers about these parts, and Liverpool, as also about Bri<g ref="char:EOLhyphen"/>stol, and Minhead, that are not yet gone over, that they may be taken into consideration, and either those or some others be sent over to Dublin, and other parts pos<g ref="char:EOLhyphen"/>sessed by Ormond and his party, to secure them for the Parliament. Within few dayes you shall hear the parti<g ref="char:EOLhyphen"/>culars more at large, from</p>
+               <closer>
+                  <dateline>Chester <date>the last of Septemb. 1646.</date>
+                  </dateline>
+                  <signed>Your humble Servant, E. A.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb facs="tcp:159910:3"/>
+               <opener>
+                  <salute>Honoured Sir,</salute>
+               </opener>
+               <p>A Little help will save this Kingdom, neglect will hazard the losse of it; the ruine of which will be a fearfull Alarum to both the other. Sir <hi>William Gilburt</hi> Governour of the Fort of <hi>Mariborough</hi> in the Queens County, in the Province of <hi>Leimster,</hi> had before the Cessation three compleat Companies of Foot, and a Troope of good Horse, with which he did not only secure his own Gar<g ref="char:EOLhyphen"/>rison, but preserved the Lord <hi>Dillon,</hi> Viscount <hi>Castle low.</hi> and his Forces in the Castle of <hi>Athlon,</hi> in the Countie of <hi>Conaught</hi> upon the borders of <hi>Leimster,</hi> a Protestant Garison some ten miles, or more from him; but the Ces<g ref="char:EOLhyphen"/>sation being agreed, two of those three Companies, and the Troop of horse were called off by the Marquesse of <hi>Ormoud,</hi> and not only the Castle of <hi>Athlone</hi> was (by this meanes left naked) but <hi>Mariborough</hi> Fort in great dan<g ref="char:EOLhyphen"/>ger. Sir <hi>William Gilburt</hi> having only one Company left to keep the Garrison, and the Lord <hi>Dillon</hi> not 100. men in <hi>Athlone.</hi>
+               </p>
+               <p>Sir <hi>William Gilburt</hi> therefore sent up his eldest Son, his Deputie-Governour, and a Gentleman that hath done good service against the Rebels, to the Parliament of Eng<g ref="char:EOLhyphen"/>land, whose dispatch for employments hath been much wished for by us.</p>
+               <p>Supplies so much, and so long desired, not coming, makes the old Irish to insult the more, though one rout would (I ver<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y believe) turn the skales.</p>
+               <p>But a Peace being concluded between the supreame Councel, and the Marquesse of <hi>Ormond,</hi> it puts us into a far worse condition: Ormond and Digby with their for<g ref="char:EOLhyphen"/>ces
+<pb facs="tcp:159910:4"/> are got safe to Dublin, and there they are fortifying, and mending their workes from the Colledge to St. Ke<g ref="char:EOLhyphen"/>van, and Newstreet, and so to St. Iames Gate, and since their return from Kilkennie the guards have been stron<g ref="char:EOLhyphen"/>ger about the Citie; For the Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quesse of Ormond and the Lord Digby are in some feare of the Rebels that are risen against the peace concluded.</p>
+               <p>The Rebels missing their design of murdering the Marquesse of Ormond, and Digbie, with them in Kilken<g ref="char:EOLhyphen"/>nie, as was plotted, they with their forces marched into the Queenes Countie in Leimster; within <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0. miles of Kilkennie, and there tooke the Fort of Mairborough by surprize, notwithstanding the peace concluded, Sir Wil<g ref="char:EOLhyphen"/>liam Gilburt, with all the Officers, and Souldiers, Mi<g ref="char:EOLhyphen"/>nisters, and Inhabitants to the number of 1000. men, women, and children of the Town that are Protestants, all being at the mercy of the Rebels.</p>
+               <p>And the Castle of Athlone in Conaught was also ta<g ref="char:EOLhyphen"/>ken by them in the like manner. The Lord Dillon and all his Off<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cers and Souldiers are surprised, and are at the mercie of those bloody Rebels.</p>
+               <p>These Forces of the Irish (in number almost 1000. and all armed) are within little now then twenty miles of Dublin.</p>
+               <p>These two places which they have taken, the losse of them is great, Athlone stands upon the River side just upon the mouth of Lough Ree, towards Castle More, and Mariborough Fort is in the hart of Leimster.</p>
+               <p>Sir, for your further satisfaction herein, I referre you to the Papers here inclosed, and shall ever apply my selfe to be</p>
+               <closer>
+                  <dateline>Cork <date>the 2. of Septem. 1646.</date>
+                  </dateline>
+                  <signed>Your most humble Servant, N. T.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="lists_of_names">
+            <pb n="5" facs="tcp:159910:4"/>
+            <head>A List of the Names of the Families of the Rebels that rose against the Peace.</head>
+            <list>
+               <item>THE Family of the O-moores.</item>
+               <item>The Family of the Fitz-Patricks.</item>
+               <item>The Family of the Brennons.</item>
+               <item>The Family of the O-Conners.</item>
+               <item>The Family of the O-Ryleyes,</item>
+            </list>
+            <list>
+               <head>A List of the Places out of which these Rebels rise.</head>
+               <item>
+                  <hi>In Leimster.</hi>
+                  <list>
+                     <item>The Kings Countie.</item>
+                     <item>The Queenes Countie.</item>
+                     <item>Countie Catebagh.</item>
+                     <item>The Countie of Wexford.</item>
+                     <item>The Countie of Kilkennie.</item>
+                     <item>The Countie of Westmeath.</item>
+                     <item>The Countie of Raymond.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>In Conaught.</hi>
+                  <list>
+                     <item>The Countie of <hi>Galloway.</hi>
+                     </item>
+                     <item>The Countie of <hi>Clare.</hi>
+                     </item>
+                     <item>The Countie of <hi>T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>wmund.</hi>
+                     </item>
+                     <item>They had their Rendez<g ref="char:EOLhyphen"/>vouzes between Cater<g ref="char:EOLhyphen"/>lagh and Kilkennie in Leimster.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>A List of the chiefe places from whence these Rebels are relieved.</head>
+               <item>O-Carolus,</item>
+               <item>O-Drone,</item>
+               <item>Kilkennie,</item>
+               <item>Caterlagh.</item>
+               <item>O Kirne,</item>
+               <item>Slewmerosle,</item>
+               <item>O▪ Donne,</item>
+               <item>Laghlin,</item>
+               <item>Ido.</item>
+            </list>
+            <list>
+               <pb facs="tcp:159910:5"/>
+               <head>A List of what was taken in the Castle of Athlone, in the County of Roscomen, which is taken by the Rebels.</head>
+               <item>The Lord Dillon, Vis<g ref="char:EOLhyphen"/>count Castelon.</item>
+               <item>The Governour of the Castle.</item>
+               <item>8 Officers.</item>
+               <item>80 Souldiers.</item>
+               <item>100 Armes.</item>
+               <item>With the rest of the Am<g ref="char:EOLhyphen"/>munition of the Castle,</item>
+            </list>
+            <list>
+               <head>A List of what was in the Fort of Mariborough in the Queens County, which is taken by the Rebels; As also in the Town, where they were all at the mercy of the Rebels.</head>
+               <item>Sir William Gilburt, Go<g ref="char:EOLunhyphen"/>vernour of the place.</item>
+               <item>Mr. William Gilburt his Son.</item>
+               <item>An Officer under him.</item>
+               <item>E. Fitz-Gerhard.</item>
+               <item>All Sir William Gilburts Officers and Souldiers.</item>
+               <item>All the Armes and Ammu<g ref="char:EOLhyphen"/>nition in the Fort.</item>
+               <item>4 Protestant Ministers. (<hi>VIZ.</hi>)</item>
+               <item>Mr. Humphrey Gore.</item>
+               <item>Mr. Hugh Gun.</item>
+               <item>Mr. Essex Digby.</item>
+               <item>Mr. Iohn Birkhead.</item>
+               <item>1000 Protestants, men, wo<g ref="char:EOLhyphen"/>men, and children.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
